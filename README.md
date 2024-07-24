@@ -51,7 +51,7 @@ Stock-Market is a comprehensive web application designed to provide robust stock
 
 ### Live Demo
 
-To view a live demo of the project, watch the full video [here](https://harsh-bansal.netlify.app/).
+To view a live demo of the project, watch the full video [here](https://harsh-bansal.netlify.app/stock-market.mp4).
 
 ## Pages
 
